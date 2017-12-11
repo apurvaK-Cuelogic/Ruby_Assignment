@@ -1,0 +1,25 @@
+[
+  {
+    "acc_no": "111",
+    "name": "Apurva",
+    "age": "22",
+    "username": "apu",
+    "password": "123",
+    "balance": 200
+  },
+  {
+    "acc_no": "12",
+    "name": "Anand",
+    "age": "22",
+    "username": "anand",
+    "password": "123",
+    "balance": 990
+  },
+  {
+    "acc_no": 123,
+    "name": "Anand",
+    "username": "sanand",
+    "password": "123",
+    "balance": "0"
+  }
+]
